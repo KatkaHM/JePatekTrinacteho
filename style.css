@@ -1,0 +1,7 @@
+.msg--valid {
+  background-color: greenyellow;
+}
+
+.msg--invalid {
+  background-color: red;
+}
